@@ -1,13 +1,10 @@
-# Hi, I'm Rayân 👋
-
-### Software Engineering Student @ CyTECH · Building RAG, Vector Search & AI Agent Systems
+![Banner](./banner.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rmouahid&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmouahid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prorayanmouahid@gmail.com)
-[![Location](https://img.shields.io/badge/Paris,%20France-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-[![Status](https://img.shields.io/badge/Open%20to-Internships%20Abroad-success?style=for-the-badge&logo=airplane&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Open%20to-Internships%20Abroad-success?style=for-the-badge)]()
 
 ---
 
@@ -22,24 +19,30 @@
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,linux&theme=dark" />
+</p>
+
+**AI/ML tooling:** LangChain · Vector Databases · MCP · PySpark · GraphFrames
 
 ---
 
 ## 📌 Featured Projects
 
-### 🗞️ [NoviT](https://github.com/rmouahid/NoviT)
-MCP server providing Claude with real-time tech news from 25+ sources (AI, security, engineering, regulation) with profile-based filtering.
-`Python` `MCP` `LLM Tooling`
-
-### ⚡ [pyspark-streaming-graph-platform](https://github.com/rmouahid/pyspark-streaming-graph-platform)
-Real-time streaming data pipeline built with PySpark Structured Streaming and GraphFrames, simulating user-seller-product interactions on a marketplace platform with dynamic graph visualization.
-`Python` `PySpark` `GraphFrames` `Streaming`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗞️ <a href="https://github.com/rmouahid/NoviT">NoviT</a></h3>
+      <p>MCP server providing Claude with real-time tech news from 25+ sources (AI, security, engineering, regulation) with profile-based filtering.</p>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/rmouahid/pyspark-streaming-graph-platform">pyspark-streaming-graph-platform</a></h3>
+      <p>Real-time streaming data pipeline built with PySpark Structured Streaming and GraphFrames, simulating user-seller-product interactions with dynamic graph visualization.</p>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,4 +53,4 @@ Real-time streaming data pipeline built with PySpark Structured Streaming and Gr
 
 ---
 
-*📫 Reach out — always happy to talk AI, data engineering, or opportunities abroad.*
+<p><i>📫 Reach out — always happy to talk AI, data engineering, or opportunities abroad.</i></p>

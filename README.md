@@ -17,7 +17,7 @@
 
 - 🔍 **RAG & Vector Search** — building retrieval-augmented generation pipelines and exploring embedding/vector store strategies
 - 🤖 **AI Agent Systems** — designing agentic workflows on top of LLMs (tool use, orchestration, MCP servers)
-- ⚡ **Data Engineering** — streaming pipelines with PySpark & GraphFrames
+- 📚 **Scholar projects** — coursework at CyTECH spanning simulation and distributed data engineering, including a Java/JavaFX cellular automaton modeling fire propagation and a PySpark Structured Streaming pipeline simulating marketplace interactions with GraphFrames
 - 📡 Currently building **[NoviT](https://github.com/rmouahid/NoviT)**, an MCP server giving Claude real-time tech news from 25+ sources
 
 ![divider](./divider.svg)
@@ -44,9 +44,9 @@
       <img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/rmouahid/pyspark-streaming-graph-platform">pyspark-streaming-graph-platform</a></h3>
-      <p>Real-time streaming data pipeline built with PySpark Structured Streaming and GraphFrames, simulating user-seller-product interactions with dynamic graph visualization.</p>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
+      <h3>📄 <a href="https://github.com/rmouahid/doc-centralizer">doc-centralizer</a></h3>
+      <p>Self-hosted RAG documentation assistant — local LLM (Phi-3 via llama.cpp), sentence-transformers embeddings, FAISS retrieval, multi-format ingestion, packaged with Docker and CI/CD.</p>
+      <img src="https://skillicons.dev/icons?i=python,docker&theme=dark" height="28" />
     </td>
   </tr>
 </table>

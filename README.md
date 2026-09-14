@@ -17,7 +17,7 @@
 
 - 🔍 **RAG & Vector Search** — building retrieval-augmented generation pipelines and exploring embedding/vector store strategies
 - 🤖 **AI Agent Systems** — designing agentic workflows on top of LLMs (tool use, orchestration, MCP servers)
-- 📚 **Scholar projects** — coursework at CyTECH spanning simulation and distributed data engineering, including a Java/JavaFX cellular automaton modeling fire propagation and a PySpark Structured Streaming pipeline simulating marketplace interactions with GraphFrames
+- 📚 **Scholar projects** — coursework at CyTECH spanning simulation and distributed data engineering
 - 📡 Currently building **[NoviT](https://github.com/rmouahid/NoviT)**, an MCP server giving Claude real-time tech news from 25+ sources
 
 ![divider](./divider.svg)

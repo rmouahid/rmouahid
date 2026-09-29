@@ -44,9 +44,9 @@
       <img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
     </td>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/rmouahid/doc-centralizer">doc-centralizer</a></h3>
-      <p>Self-hosted RAG documentation assistant — local LLM (Phi-3 via llama.cpp), sentence-transformers embeddings, FAISS retrieval, multi-format ingestion, packaged with Docker and CI/CD.</p>
-      <img src="https://skillicons.dev/icons?i=python,docker&theme=dark" height="28" />
+      <h3>🎯 <a href="https://github.com/rmouahid/intern-radar">intern-radar</a></h3>
+      <p>Internship radar for AI roles — watches the career pages of 66 top AI/tech companies, triages every new offer with an LLM, pushes the relevant ones to Telegram and writes a tailored cover letter as a PDF in one tap. Runs unattended on a VPS under systemd.</p>
+      <img src="https://skillicons.dev/icons?i=python,linux&theme=dark" height="28" />
     </td>
   </tr>
 </table>

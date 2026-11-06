@@ -1,69 +1,13 @@
-<div align="center">
+I'm Rayân Mouahid, an engineering student at CY Tech, looking for an AI engineering internship from March 2027.
 
-![Banner](./banner.svg)
+I build retrieval and agent systems end to end, and I measure them: every figure below is produced by a script in its repository.
 
-![Profile Views](https://komarev.com/ghpvc/?username=rmouahid&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+Contact: [LinkedIn](https://www.linkedin.com/in/rmouahid) · [prorayanmouahid@gmail.com](mailto:prorayanmouahid@gmail.com) · [CV](https://docs.google.com/document/d/1AUHSf6siZ9bExP_u02Gcvrgx173s5qi34O4Ov_In1m8/export?format=pdf)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmouahid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prorayanmouahid@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-CV-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1AUHSf6siZ9bExP_u02Gcvrgx173s5qi34O4Ov_In1m8/export?format=pdf)
-[![Status](https://img.shields.io/badge/Open%20to-Internships%20Abroad-2ea44f?style=for-the-badge)]()
+## Projects
 
-</div>
-
-![divider](./divider.svg)
-
-## 🚀 What I'm working on
-
-- 🔍 **RAG & Vector Search** — building retrieval-augmented generation pipelines and exploring embedding/vector store strategies
-- 🤖 **AI Agent Systems** — designing agentic workflows on top of LLMs (tool use, orchestration, MCP servers)
-- 📚 **Scholar projects** — coursework at CyTECH spanning simulation and distributed data engineering
-- 📡 Currently building **[NoviT](https://github.com/rmouahid/NoviT)**, an MCP server giving Claude real-time tech news from 25+ sources
-
-![divider](./divider.svg)
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,linux&theme=dark" />
-
-**AI/ML & Data:** `LangChain` `Vector Databases` `MCP` `PySpark` `GraphFrames` `RAG`
-
-</div>
-
-![divider](./divider.svg)
-
-## 📌 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗞️ <a href="https://github.com/rmouahid/NoviT">NoviT</a></h3>
-      <p>MCP server providing Claude with real-time tech news from 25+ sources (AI, security, engineering, regulation) with profile-based filtering.</p>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="28" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/rmouahid/intern-radar">intern-radar</a></h3>
-      <p>Internship radar for AI roles — watches the career pages of 66 top AI/tech companies, triages every new offer with an LLM, pushes the relevant ones to Telegram and writes a tailored cover letter as a PDF in one tap. Runs unattended on a VPS under systemd.</p>
-      <img src="https://skillicons.dev/icons?i=python,linux&theme=dark" height="28" />
-    </td>
-  </tr>
-</table>
-
-![divider](./divider.svg)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/rmouahid?style=for-the-badge&color=blue&logo=github)
-![GitHub repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=orange&label=Public+Repos&query=public_repos&url=https://api.github.com/users/rmouahid&logo=github)
-
-</div>
-
-![divider](./divider.svg)
-
-<div align="center">
-<i>📫 Reach out — always happy to talk AI, data engineering, or opportunities abroad.</i>
-</div>
+| Project | What it does | Measured |
+|---|---|---|
+| [intern-radar](https://github.com/rmouahid/intern-radar) | Watches the career pages of 119 companies, triages each new internship offer with rules and an LLM, and sends the relevant ones to Telegram with a cover letter ready as a PDF. Runs unattended on a VPS. | 103 new offers a day screened for $0.15 a day ([metrics](https://github.com/rmouahid/intern-radar/blob/develop/docs/metrics.md)) |
+| [rag-agent](https://github.com/rmouahid/rag-agent) | A question-answering agent over your own documents, with its own vector indexes (IVF, HNSW, product quantization), a local LLM, and benchmarks against brute force and FAISS. | HNSW 432× faster than an exact scan at recall@10 0.93 on 100,000 chunks ([benchmark](https://github.com/rmouahid/rag-agent/blob/dev/docs/benchmarks/scale.md)) |
+| [NovIT](https://github.com/rmouahid/NovIT) | An MCP server that gives Claude and any MCP client the day's tech news from 19 open sources, ranked for the user's profile, with structured, citable answers. | 19 sources collected in 2.0 s ([profiling script](https://github.com/rmouahid/NovIT/blob/dev/scripts/profile_scrapers.py)) |

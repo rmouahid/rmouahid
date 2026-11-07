@@ -1,14 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="rag-agent: Q&amp;A over your documents, vector indexes from scratch">
 <rect x="1" y="1" width="638" height="248" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="1" y="1" width="8" height="248" rx="4" fill="#0969da"/>
 <text x="26" y="50" font-size="30" font-weight="700" fill="#0969da">rag-agent</text>
 <text x="26" y="82" font-size="19" fill="#59636e">Q&amp;A over your documents, vector indexes from scratch</text>
 <rect x="26.0" y="102" width="188.0" height="92" rx="10" fill="#f6f8fa"/>
+<rect x="26.0" y="102" width="188.0" height="4" rx="2" fill="#0969da" opacity="0.6"/>
 <text x="42.0" y="148" font-size="38" font-weight="700" fill="#1f2328">432×</text>
 <text x="42.0" y="178" font-size="17" fill="#59636e">faster than exact</text>
 <rect x="226.0" y="102" width="188.0" height="92" rx="10" fill="#f6f8fa"/>
+<rect x="226.0" y="102" width="188.0" height="4" rx="2" fill="#0969da" opacity="0.6"/>
 <text x="242.0" y="148" font-size="38" font-weight="700" fill="#1f2328">0.992</text>
 <text x="242.0" y="178" font-size="17" fill="#59636e">recall@10, 0.72 ms</text>
 <rect x="426.0" y="102" width="188.0" height="92" rx="10" fill="#f6f8fa"/>
+<rect x="426.0" y="102" width="188.0" height="4" rx="2" fill="#0969da" opacity="0.6"/>
 <text x="442.0" y="148" font-size="38" font-weight="700" fill="#1f2328">0.668</text>
 <text x="442.0" y="178" font-size="17" fill="#59636e">nDCG@10, BEIR</text>
 <text x="26" y="228" font-size="17" fill="#59636e">numpy · FAISS · FastAPI · llama.cpp · Docker</text>

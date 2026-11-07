@@ -1,18 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="228" viewBox="0 0 880 228" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="NovIT: An MCP server that brings the day's tech news into an AI assistant">
-<rect x="0.5" y="0.5" width="879" height="227" rx="10" fill="#ffffff" stroke="#d0d7de"/>
-<text x="28" y="46" font-size="24" font-weight="600" fill="#0969da">NovIT</text>
-<text x="28" y="74" font-size="15" fill="#59636e">An MCP server that brings the day's tech news into an AI assistant</text>
-<rect x="28.0" y="94" width="265.3" height="92" rx="8" fill="#f6f8fa"/>
-<text x="44.0" y="134" font-size="30" font-weight="700" fill="#1f2328">2.0 s</text>
-<text x="44.0" y="157" font-size="14" fill="#1f2328">to collect every source</text>
-<text x="44.0" y="176" font-size="12" fill="#59636e">median of 3 runs</text>
-<rect x="307.3" y="94" width="265.3" height="92" rx="8" fill="#f6f8fa"/>
-<text x="323.3" y="134" font-size="30" font-weight="700" fill="#1f2328">19</text>
-<text x="323.3" y="157" font-size="14" fill="#1f2328">open sources</text>
-<text x="323.3" y="176" font-size="12" fill="#59636e">AI, security, engineering, law</text>
-<rect x="586.7" y="94" width="265.3" height="92" rx="8" fill="#f6f8fa"/>
-<text x="602.7" y="134" font-size="30" font-weight="700" fill="#1f2328">352</text>
-<text x="602.7" y="157" font-size="14" fill="#1f2328">automated tests</text>
-<text x="602.7" y="176" font-size="12" fill="#59636e">incl. a real MCP client</text>
-<text x="28" y="210" font-size="13" fill="#59636e">Python · MCP · SQLite FTS5 · asyncio · Docker</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="NovIT: MCP server bringing tech news into AI assistants">
+<rect x="1" y="1" width="638" height="248" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<text x="26" y="50" font-size="30" font-weight="700" fill="#0969da">NovIT</text>
+<text x="26" y="82" font-size="19" fill="#59636e">MCP server bringing tech news into AI assistants</text>
+<rect x="26.0" y="102" width="188.0" height="92" rx="10" fill="#f6f8fa"/>
+<text x="42.0" y="148" font-size="38" font-weight="700" fill="#1f2328">2.0 s</text>
+<text x="42.0" y="178" font-size="17" fill="#59636e">full collection</text>
+<rect x="226.0" y="102" width="188.0" height="92" rx="10" fill="#f6f8fa"/>
+<text x="242.0" y="148" font-size="38" font-weight="700" fill="#1f2328">19</text>
+<text x="242.0" y="178" font-size="17" fill="#59636e">open sources</text>
+<rect x="426.0" y="102" width="188.0" height="92" rx="10" fill="#f6f8fa"/>
+<text x="442.0" y="148" font-size="38" font-weight="700" fill="#1f2328">352</text>
+<text x="442.0" y="178" font-size="17" fill="#59636e">tests</text>
+<text x="26" y="228" font-size="17" fill="#59636e">MCP · SQLite FTS5 · asyncio · Docker</text>
 </svg>

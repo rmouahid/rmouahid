@@ -1,18 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="228" viewBox="0 0 880 228" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="rag-agent: Question answering over your own documents, with vector indexes written from scratch">
-<rect x="0.5" y="0.5" width="879" height="227" rx="10" fill="#0d1117" stroke="#30363d"/>
-<text x="28" y="46" font-size="24" font-weight="600" fill="#4493f8">rag-agent</text>
-<text x="28" y="74" font-size="15" fill="#9198a1">Question answering over your own documents, with vector indexes written from scratch</text>
-<rect x="28.0" y="94" width="265.3" height="92" rx="8" fill="#161b22"/>
-<text x="44.0" y="134" font-size="30" font-weight="700" fill="#e6edf3">432×</text>
-<text x="44.0" y="157" font-size="14" fill="#e6edf3">faster than an exact scan</text>
-<text x="44.0" y="176" font-size="12" fill="#9198a1">recall@10 0.93, 100k chunks</text>
-<rect x="307.3" y="94" width="265.3" height="92" rx="8" fill="#161b22"/>
-<text x="323.3" y="134" font-size="30" font-weight="700" fill="#e6edf3">0.992</text>
-<text x="323.3" y="157" font-size="14" fill="#e6edf3">recall@10 in 0.72 ms</text>
-<text x="323.3" y="176" font-size="12" fill="#9198a1">HNSW on SIFT1M 100k</text>
-<rect x="586.7" y="94" width="265.3" height="92" rx="8" fill="#161b22"/>
-<text x="602.7" y="134" font-size="30" font-weight="700" fill="#e6edf3">0.668</text>
-<text x="602.7" y="157" font-size="14" fill="#e6edf3">nDCG@10</text>
-<text x="602.7" y="176" font-size="12" fill="#9198a1">BEIR SciFact, 300 questions</text>
-<text x="28" y="210" font-size="13" fill="#9198a1">Python · numpy · FAISS · FastAPI · llama.cpp · Docker</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="rag-agent: Q&amp;A over your documents, vector indexes from scratch">
+<rect x="1" y="1" width="638" height="248" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<text x="26" y="50" font-size="30" font-weight="700" fill="#4493f8">rag-agent</text>
+<text x="26" y="82" font-size="19" fill="#9198a1">Q&amp;A over your documents, vector indexes from scratch</text>
+<rect x="26.0" y="102" width="188.0" height="92" rx="10" fill="#161b22"/>
+<text x="42.0" y="148" font-size="38" font-weight="700" fill="#e6edf3">432×</text>
+<text x="42.0" y="178" font-size="17" fill="#9198a1">faster than exact</text>
+<rect x="226.0" y="102" width="188.0" height="92" rx="10" fill="#161b22"/>
+<text x="242.0" y="148" font-size="38" font-weight="700" fill="#e6edf3">0.992</text>
+<text x="242.0" y="178" font-size="17" fill="#9198a1">recall@10, 0.72 ms</text>
+<rect x="426.0" y="102" width="188.0" height="92" rx="10" fill="#161b22"/>
+<text x="442.0" y="148" font-size="38" font-weight="700" fill="#e6edf3">0.668</text>
+<text x="442.0" y="178" font-size="17" fill="#9198a1">nDCG@10, BEIR</text>
+<text x="26" y="228" font-size="17" fill="#9198a1">numpy · FAISS · FastAPI · llama.cpp · Docker</text>
 </svg>
